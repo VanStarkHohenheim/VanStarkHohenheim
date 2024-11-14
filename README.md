@@ -1,7 +1,4 @@
 ![image](https://github.com/user-attachments/assets/3578777d-5c10-40ba-8a63-9be32633dad9)
-)
-)
-<img align="right" width="40%" src="./profile.png">
 <br>
 <br>
 <br>
