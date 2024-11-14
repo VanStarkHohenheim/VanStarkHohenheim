@@ -6,7 +6,7 @@
 
 - 👨‍💻 Je suis [***Van Stark Hohenheim***](https://github.com/VanStarkHohenheim)
   
-- 🖥️ Développeur passionné par la cybersécurité, les réseaux et l'administration Linux
+- 🖥️ Passionné par la cybersécurité, les réseaux et l'administration Linux
 - ❤️ J'aime la programmation, le hacking éthique, l'intelligence artificielle
 - 🎓 Étudiant en BTS SIO, option SISR (Solutions d’Infrastructure, Systèmes et Réseaux)
   
@@ -36,8 +36,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Flipper Zero](https://img.shields.io/badge/FlipperZero-%23E4A9FE.svg?style=for-the-badge&logoColor=black)
 <br />
-
-![](banner2.png)
 
 ![VanStarkHohenheim's Stats](https://github-readme-stats.vercel.app/api?username=VanStarkHohenheim&theme=dark&show_icons=true&hide_border=false&count_private=false)
 
