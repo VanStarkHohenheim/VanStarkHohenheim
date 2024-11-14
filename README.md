@@ -1,4 +1,4 @@
-![](banner1.png)
+![](lala.png)
 <img align="right" width="40%" src="./profile.png">
 <br>
 <br>
