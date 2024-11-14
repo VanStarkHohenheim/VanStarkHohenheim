@@ -43,10 +43,3 @@
 <img width="400px" style="margin:10px;" src="https://github-readme-stats.vercel.app/api?username=belmokhtar-mohamed&count_private=true&show_icons=true&theme=tokyonight">
 <img style="margin:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belmokhtar-mohamed&layout=compact&theme=tokyonight">
 </div>
-
-<!--START_SECTION:waka-->
-```txt
-Total Time: 2 hrs 15 mins
-Python            1 hr 30 mins    ████████████████▓░░░░░░░░   66.67 %
-SQL               30 mins         █████▒░░░░░░░░░░░░░░░░░░░   22.22 %
-Other             15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   11.11 %
