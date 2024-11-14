@@ -1,4 +1,5 @@
-![](lala.png)
+![](https://github.com/user-attachments/assets/5c9d801e-b9dc-43a0-a8f1-fb95af58b892)
+)
 <img align="right" width="40%" src="./profile.png">
 <br>
 <br>
