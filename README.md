@@ -39,7 +39,6 @@
 
 ![](banner2.png)
 
-<div style="display: flex; justify-content: center;"> 
-<img width="400px" style="margin:10px;" src="https://github-readme-stats.vercel.app/api?username=belmokhtar-mohamed&count_private=true&show_icons=true&theme=tokyonight">
-<img style="margin:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belmokhtar-mohamed&layout=compact&theme=tokyonight">
-</div>
+![VanStarkHohenheim's Stats](https://github-readme-stats.vercel.app/api?username=VanStarkHohenheim&theme=dark&show_icons=true&hide_border=false&count_private=false)
+
+![VanStarkHohenheim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VanStarkHohenheim&theme=dark&show_icons=true&hide_border=false&layout=compact)
