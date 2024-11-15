@@ -37,6 +37,8 @@
 ![Flipper Zero](https://img.shields.io/badge/FlipperZero-%23E4A9FE.svg?style=for-the-badge&logoColor=black)
 <br />
 
-![VanStarkHohenheim's Stats](https://github-readme-stats.vercel.app/api?username=VanStarkHohenheim&theme=dark&show_icons=true&hide_border=false&count_private=false)
+![VanStarkHohenheim's Stats](https://github-readme-stats.vercel.app/api?username=VanStarkHohenheim&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![VanStarkHohenheim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VanStarkHohenheim&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![VanStarkHohenheim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VanStarkHohenheim&theme=vue-dark&hide_border=true)
