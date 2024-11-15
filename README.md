@@ -39,4 +39,4 @@
 
 ![VanStarkHohenheim's Stats](https://github-readme-stats.vercel.app/api?username=VanStarkHohenheim&theme=dark&show_icons=true&hide_border=false&count_private=false)
 
-![VanStarkHohenheim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VanStarkHohenheim&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![VanStarkHohenheim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VanStarkHohenheim&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
