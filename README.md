@@ -7,7 +7,7 @@
 - 👨‍💻 Je suis [***Van Stark Hohenheim***](https://github.com/VanStarkHohenheim)
   
 - 🖥️ Passionné par le dev, les réseaux et Linux
-- ❤️ J'aime la programmation, le hacking éthique, l'intelligence artificielle
+- ❤️ J'aime la programmation, le bug bounty, l'intelligence artificielle
 - 🎓 Étudiant en dev
   
 <br/>
