@@ -51,10 +51,8 @@
 
 <br />
 
-![VanStarkHohenheim's Stats](https://github-readme-stats.vercel.app/api?username=VanStarkHohenheim&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![VanStarkHohenheim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VanStarkHohenheim&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
+![vanstarkhohenheim's Stats](https://github-readme-stats.vercel.app/api?username=vanstarkhohenheim&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![vanstarkhohenheim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanstarkhohenheim&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 
